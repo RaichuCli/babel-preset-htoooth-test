@@ -2,6 +2,8 @@
 
 module.exports = {
   presets: [
-    ['htoooth', {all: true}]
+    ['htoooth', {
+      all: true
+    }]
   ]
 }
