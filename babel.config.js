@@ -3,7 +3,9 @@
 module.exports = {
   presets: [
     ['htoooth', {
-      all: true
+      modules: false,
+      // corejs: 2
+      corejs: false
     }]
   ]
 }
